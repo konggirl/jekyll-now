@@ -3,7 +3,17 @@ layout: post
 title: 개발환경 구성하기
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+1. 개발 환경 버전
+
+JDK : JDK1.7
+WEB : Tomcat7
+MAVEN : 3.2.3
+SPRING : 3.2.8
+Bootstrap : 3.3
+mariadb : 10.1
+
+IED : STS-3.7.2
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
